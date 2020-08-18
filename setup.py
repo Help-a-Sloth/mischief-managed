@@ -4,8 +4,8 @@ setuptools.setup(
     name="mischeif-managed", 
     version="1.0.0",
     author="Hemant Singh",
-    keywords=["Quick Work" , "Productivity" , "Automation",
-              "Files" , "Management" , "Tidy"  , "Folder Manage"],
+    keywords=["Quick Work" , "Productivity" , "Automation", "Cleanup"
+              "Files" , "Management" , "Tidy" , "Folder Manage"],
     description=("Files outside any folder are "+
                 "made tidy/managed by putting inside folder based on "+
                 "their extension or date"),

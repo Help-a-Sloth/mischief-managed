@@ -1,3 +1,4 @@
+# Extensions not to be touched
 non_permisable_ext = [
 		"ini"
 	]
@@ -9,6 +10,7 @@ definition_ext = {
 	"Documents" : ["txt","doc","docx","pdf"],
 }
 
+# Create hashmap of mapping extension to their general names
 ext_definition = {}
 for general_def in definition_ext:
 
