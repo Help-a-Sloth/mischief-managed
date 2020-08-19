@@ -53,12 +53,15 @@ See `variables.py` for defined general names.
 **System image**
 Before - 
 
+<p>
 <img src="https://github.com/Help-a-Sloth/mischief-managed/PREVIEW/files_capture.JPG" width="200" height="200" />
+</p>
 
 After - 
 
+<p>
 <img src="https://github.com/Help-a-Sloth/mischief-managed/PREVIEW/folder_capture.JPG" width="200" height="200" />
-
+</p>
 
 **Open for any constructive Contribution.**
 **Future Feature** - A feature to undo the effect of this, can be added. Just submit a feature request and it will be added.
