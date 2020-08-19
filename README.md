@@ -53,11 +53,11 @@ See `variables.py` for defined general names.
 **System image**
 Before - 
 
-<img src="https://github.com/Help-a-Sloth/mischief-managed/PREVIEW/files_capture.JPG width="200" height="200"))
+<img src="https://github.com/Help-a-Sloth/mischief-managed/PREVIEW/files_capture.JPG width="200" height="200" />
 
 After - 
 
-<img src="https://github.com/Help-a-Sloth/mischief-managed/PREVIEW/folder_capture.JPG width="200" height="200"))
+<img src="https://github.com/Help-a-Sloth/mischief-managed/PREVIEW/folder_capture.JPG width="200" height="200" />
 
 
 **Open for any constructive Contribution.**
