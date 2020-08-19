@@ -2,6 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="mischeif-managed", 
+    packages=setuptools.find_packages(),
     version="1.0.0",
     author="Hemant Singh",
     keywords=["Quick Work" , "Productivity" , "Automation", "Cleanup"
@@ -10,7 +11,7 @@ setuptools.setup(
                 "made tidy/managed by putting inside folder based on "+
                 "their extension or date"),
     long_description_content_type="text/markdown",
-    url="https://github.com/amifunny/mischeif-managed/",
+    url="https://github.com/Help-a-Sloth/mischeif-managed",
     maintainer="amifunny",
     entry_points={
         'console_scripts':[
@@ -18,7 +19,6 @@ setuptools.setup(
         ]
     },
     include_package_data=True,
-    packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
