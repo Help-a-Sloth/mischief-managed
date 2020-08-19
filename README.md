@@ -29,11 +29,16 @@ Just this command will manage the current working directory.
 
 **Optional arguments:**
   -h, --help  :  show this help message and exit.
+  
   --path PATH  :  Directory to manage or target, instead of the current working directory.
+  
   --ext EXT  :  Flag if to tidy the files into the extension based folders.
+  
   --use-def  :  Flag to use general folder name like 'Images' for extensions - jpg,png etc.
                 For custom general name for subfolders,  see `variables.py` and change according to your need.
+		
   --date  :  Flag if to tidy the files into the date based folders
+  
   -r RECENT, --recent RECENT  :  Give the number of files to include in recently created files
 
 **Example usage** -
@@ -51,16 +56,18 @@ See `variables.py` for defined general names.
 	  mischeif-managed --path=C:\Users\Downloads\ --recent=10
 
 **System image**
+
 Before - 
 
-<img src="PREVIEW/files_capture.JPG" width="300" height="250" />
+![files_capture]("PREVIEW/files_capture.JPG")
 
 After - 
 
-<img src="PREVIEW/folder_capture.JPG" width="300" height="250" />
+![folder_capture]("PREVIEW/folder_capture.JPG")
+
 
 **Open for any constructive Contribution.**
 **Future Feature** - A feature to undo the effect of this, can be added. Just submit a feature request and it will be added.
 
-
+**Made by Help-a-Sloth org.**
 
