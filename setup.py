@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="mischeif-managed", 
+    name="mischief-managed", 
     packages=setuptools.find_packages(),
     version="1.0.0",
     author="Hemant Singh",
@@ -11,11 +11,11 @@ setuptools.setup(
                 "made tidy/managed by putting inside folder based on "+
                 "their extension or date"),
     long_description_content_type="text/markdown",
-    url="https://github.com/Help-a-Sloth/mischeif-managed",
+    url="https://github.com/Help-a-Sloth/mischief-managed",
     maintainer="amifunny",
     entry_points={
         'console_scripts':[
-            'mischeif-managed=mischeif_managed.__main__:main'
+            'mischief-managed=mischief_managed.__main__:main'
         ]
     },
     include_package_data=True,

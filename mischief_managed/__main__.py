@@ -62,7 +62,7 @@ def main():
 
 	show_file_map(files_info)
 
-	print("\n** Made with Fun by amifunny **")
+	print("\n** Made by Help-a-Sloth org. Check out on github.**")
 
 if __name__=='__main__':
 	main()
