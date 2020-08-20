@@ -41,7 +41,8 @@ Just this command will manage the current working directory.
   
   -r RECENT, --recent RECENT  :  Give the number of files to include in recently created files
 
-**Example usage** -
+## Example usage
+
 - **To create extension based folders like `jpg`, `exe` etc**
 
 	    mischeif-managed --path=C:\Users\Downloads\
