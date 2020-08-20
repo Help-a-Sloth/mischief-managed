@@ -59,14 +59,15 @@ See `variables.py` for defined general names.
 
 Before - 
 
-![files_capture]("PREVIEW/files_capture.JPG")
+![files_capture](PREVIEW/files_capture.JPG?raw=true)
 
 After - 
 
-![folder_capture]("PREVIEW/folder_capture.JPG")
+![folder_capture](PREVIEW/folder_capture.JPG?raw=true)
 
 
 **Open for any constructive Contribution.**
+
 **Future Feature** - A feature to undo the effect of this, can be added. Just submit a feature request and it will be added.
 
 **Made by Help-a-Sloth org.**
