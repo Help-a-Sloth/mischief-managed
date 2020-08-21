@@ -29,18 +29,19 @@ Just this command will manage the current working directory.
     usage: mischief-managed [-h] [--path PATH] [--ext EXT] [--use-def] [--date] [-r RECENT]
 
 **Optional arguments:**
-  -h, --help  :  show this help message and exit.
+
+  **-h, --help**  :  show this help message and exit.
   
-  --path PATH  :  Directory to manage or target, instead of the current working directory.
+  **--path PATH**  :  Directory to manage or target, instead of the current working directory.
   
-  --ext EXT  :  Flag if to tidy the files into the extension based folders.
+  **--ext EXT**  :  Flag if to tidy the files into the extension based folders.
   
-  --use-def  :  Flag to use general folder name like 'Images' for extensions - jpg,png etc.
+  **--use-def**  :  Flag to use general folder name like 'Images' for extensions - jpg,png etc.
                 For custom general name for subfolders,  see `variables.py` and change according to your need.
 		
-  --date  :  Flag if to tidy the files into the date based folders
+  **--date**  :  Flag if to tidy the files into the date based folders
   
-  -r RECENT, --recent RECENT  :  Give the number of files to include in recently created files
+  **-r RECENT, --recent RECENT**  :  Give the number of files to include in recently created files
 
 ## Example usage
 
