@@ -2,6 +2,7 @@
 # mischief-managed
 
 A simple script to tidy files lying outside of folders based on extension and date modified.
+
 No deletions, simple moving of stray files into appropriate subfolders
 
 ## WHY?
@@ -12,9 +13,9 @@ To solve this, `mischief-managed` create a subfolder according to the type speci
 ## Setup
 To use, install by entering into command line -
 
-    pip install mischeif-managed
+    pip install mischief-managed
 
-View Pypi project on https://pypi.org/project/mischeif-managed/
+View Pypi project on https://pypi.org/project/mischief-managed/
 
 ##  Usage
 
@@ -25,7 +26,7 @@ Just this command will manage the current working directory.
 
 **Complete options** - 
 
-    usage: mischeif-managed [-h] [--path PATH] [--ext EXT] [--use-def] [--date] [-r RECENT]
+    usage: mischief-managed [-h] [--path PATH] [--ext EXT] [--use-def] [--date] [-r RECENT]
 
 **Optional arguments:**
   -h, --help  :  show this help message and exit.
@@ -45,16 +46,16 @@ Just this command will manage the current working directory.
 
 - **To create extension based folders like `jpg`, `exe` etc**
 
-	    mischeif-managed --path=C:\Users\Downloads\
+	    mischief-managed --path=C:\Users\Downloads\
 
 - **To create extension based folders but with defined general names like `Images` for `jpg`, `Applications` for `exe` etc**
 
-	    mischeif-managed --path=C:\Users\Downloads\ --use-def
+	    mischief-managed --path=C:\Users\Downloads\ --use-def
 See `variables.py` for defined general names.
 
 - **To create folders based on the last modified date and also a separate folder for some number, say `10`, of recent files.**
 
-	  mischeif-managed --path=C:\Users\Downloads\ --recent=10
+	  mischief-managed --path=C:\Users\Downloads\ --recent=10
 
 **System image**
 
